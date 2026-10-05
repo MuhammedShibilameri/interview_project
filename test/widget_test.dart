@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_application_1/main.dart';
-import 'package:flutter_application_1/models/user_model.dart';
+import 'package:interview_project/main.dart';
+import 'package:interview_project/models/user_model.dart';
 
 void main() {
   group('User Model Tests', () {
